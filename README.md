@@ -1,3 +1,6 @@
+> [!NOTE]
+> The code in this repo has been included in Bijectors.jl proper (in the `Bijectors.VectorBijectors` module since v0.15.17.
+
 # VectorBijectors.jl
 
 A lightweight reimplementation of Bijectors.jl's functionality, but specifically focused on transformations to and from vectors.
