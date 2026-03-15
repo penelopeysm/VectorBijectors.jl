@@ -1,5 +1,5 @@
 > [!NOTE]
-> The code in this repo has been included in Bijectors.jl proper (in the `Bijectors.VectorBijectors` module since v0.15.17.
+> The code in this repo has been included in Bijectors.jl proper since v0.15.17 (in the `Bijectors.VectorBijectors` module).
 
 # VectorBijectors.jl
 
